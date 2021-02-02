@@ -4,21 +4,21 @@
 @import "{{ site.theme }}";
 
 a {
- color:#6a0dad;
+ color:#42f54e;
 }
 a:hover,
 a:focus {
- color:#6a0dad;
+ color:#42f54e;
 }
 a small {
- color:#6a0dad;
+ color:#42f54e;
 }
 a:hover small {
- color:#6a0dad
+ color:#42f54e
 }
 
 body {
- font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-family: "Helvetica Neue", Helvetica, Serif, Arial;
  font-size: 105%;
 }
 
