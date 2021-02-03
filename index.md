@@ -18,7 +18,7 @@
 
 ---
 
-<b>All About the Projects<b>
+<b>## All About the Projects<b>
 
 - [Project 1 Title](Project_GES486/Project1.md)
 - [Project 2 Title](Project_GES486/Project2.md)
