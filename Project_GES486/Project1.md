@@ -1,4 +1,4 @@
-<b>**UMBC Zones Campus Map 2005**<b>
+<b>UMBC Zones Campus Map 2005<b>
   
 **Project description:**
   
