@@ -18,8 +18,8 @@
 
 ---
 
-<b>## All About the Projects<b>
-
+## All About the Projects
+  <b></b>
 - [Project 1 Title](Project_GES486/Project1.md)
 - [Project 2 Title](Project_GES486/Project2.md)
 - [Project 3 Title](Project_GES486/Project3.md)
