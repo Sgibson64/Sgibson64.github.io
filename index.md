@@ -9,6 +9,7 @@
 <img src="images/Gibson_GES 3861024_2.jpg?raw=true"/>
 
 [Project 2 Title](/Project_GES486/Project2.md)
+<a href="/Project_GES486">Project 2 Title"</a></h3>
 <p>This is a GIS map about the Maryland Congressional Districts and Road Layout.<p>
 <img src="images/Gibson_Selenea_GES386 (1)1024_8.jpg?raw=true"/>
 
