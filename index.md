@@ -20,9 +20,9 @@
 
 ---
 
-### Category Name 2
+### All About the Projects 
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](Project_GES486/Project1.md)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
