@@ -2,10 +2,10 @@
 
 ---
 
-### Data Science
+### GIS Portfolio
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Gibson_GES 3861024_2.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
