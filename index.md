@@ -20,7 +20,7 @@
 
 ---
 
-### All About the Projects 
+<b>All About the Projects<b>
 
 - [Project 1 Title](Project_GES486/Project1.md)
 - [Project 2 Title](http://example.com/)
