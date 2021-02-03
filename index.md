@@ -4,7 +4,7 @@
 
 ### GIS Portfolio
 
-[Project 1 Title](/Project_GES486)
+[Project 1 Title](/Project_GES486/Project1.md)
 <p>"This is a GIS map about the UMBC Campus map zones in the year 2005"<p>
 <img src="images/Gibson_GES 3861024_2.jpg?raw=true"/>
 
