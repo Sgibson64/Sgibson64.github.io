@@ -9,7 +9,7 @@
 <img src="images/Gibson_GES 3861024_2.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/Project_GES486)
+[Project 2 Title](/Project_GES486/Project2.md)
 <p>"This is a GIS map about the Maryland Congressional Districts and Road Layout"<p>
 <img src="images/Gibson_Selenea_GES386 (1)1024_8.jpg?raw=true"/>
 
@@ -23,7 +23,7 @@
 <b>All About the Projects<b>
 
 - [Project 1 Title](Project_GES486/Project1.md)
-- [Project 2 Title](http://example.com/)
+- [Project 2 Title](Project_GES486/Project2.md)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
