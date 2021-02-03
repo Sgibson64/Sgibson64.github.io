@@ -12,7 +12,6 @@
 <p>This is a GIS map about the Maryland Congressional Districts and Road Layout.<p>
 <img src="images/Gibson_Selenea_GES386 (1)1024_8.jpg?raw=true"/>
 
----
 [Project 3 Title](/Project_GES486)
 <p>This is a GIS map about UMBC Campus Buildings and Points.<p>
 <img src="images/Gibson_Selenea_GES386 (1)1024_7.jpg?raw=true"/>
