@@ -11,7 +11,7 @@
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <p>"This is a GIS map about the Maryland Congressional Districts and Road Layout"<p>
-<img src="images/Gibson_Selenea_GES386(1)1024_8.jpg?raw=true"/>
+<img src="images/Gibson_Selenea_GES386 (1)1024_8.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
