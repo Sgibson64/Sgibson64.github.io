@@ -5,15 +5,18 @@
 ### GIS Portfolio
 
 [Project 1 Title](/sample_page)
+<p>"This is a GIS map about the UMBC Campus map zones in the year 2005"<p>
 <img src="images/Gibson_GES 3861024_2.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p>"This is a GIS map about the Maryland Congressional Districts and Road Layout"<p>
+<img src="images/Gibson_Selenea_GES386(1)1024_8.jpgraw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p>"This is a GIS map about UMBC Campus Buildings and Points"<p>
+<img src="images/Gibson_Selenea_GES386 (1)1024_7.jpg?raw=true"/>
 
 ---
 
