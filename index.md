@@ -5,16 +5,16 @@
 ### GIS Portfolio
 
 [Project 1 Title](/Project_GES486/Project1.md)
-<p>"This is a GIS map about the UMBC Campus map zones in the year 2005"<p>
+<p>This is a GIS map about the UMBC Campus map zones in the year 2005<p>
 <img src="images/Gibson_GES 3861024_2.jpg?raw=true"/>
 
 [Project 2 Title](/Project_GES486/Project2.md)
-<p>"This is a GIS map about the Maryland Congressional Districts and Road Layout"<p>
+<p>This is a GIS map about the Maryland Congressional Districts and Road Layout<p>
 <img src="images/Gibson_Selenea_GES386 (1)1024_8.jpg?raw=true"/>
 
 ---
 [Project 3 Title](/Project_GES486)
-<p>"This is a GIS map about UMBC Campus Buildings and Points"<p>
+<p>This is a GIS map about UMBC Campus Buildings and Points<p>
 <img src="images/Gibson_Selenea_GES386 (1)1024_7.jpg?raw=true"/>
 
 ---
