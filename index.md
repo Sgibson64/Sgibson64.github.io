@@ -22,7 +22,7 @@
 
 - [Project 1 Title](Project_GES486/Project1.md)
 - [Project 2 Title](Project_GES486/Project2.md)
-- [Project 3 Title](/Project_GES486/Project3.md)
+- [Project 3 Title](Project_GES486/Project3.md)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
