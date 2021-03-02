@@ -1,7 +1,5 @@
 ## Sea Turtle Nesting Populations
 
-<img src="images/sea-turtles-1503461_1280.jpg"/>
-
 ### Introduction
 
 Using the database known as QGIS, I will collect data from the Florida Fish and Wildlife Conservation Commisson. Using this information of document sea turtle nesting, I will show 6 maps that will replicate change from 1 to 6 years. I will then put the 6 maps together into a Gif that will show the difference between nesting years of the turtles. The data is along the coastline of Florida. The type of turtles that will be represented include Loggerheads, Green, and Leatherback. Website where the data was found: "https://atoll.floridamarine.org/arcgis/rest/services/FWC_GIS/OpenData_FWHabitat/MapServer/29"
