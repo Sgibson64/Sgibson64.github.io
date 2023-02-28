@@ -56,10 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
 facebook:
-  username               :
+  username               :&Facebook Selenea Gibson
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
