@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 facebook:
-  username               :Selenea Gibson
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Selenea Gibson"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Data science researcher, Geographer, and Social Scientist"
+  location         : "UMBC"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
