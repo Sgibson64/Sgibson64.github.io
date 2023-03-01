@@ -42,8 +42,7 @@ redirect_from:
   
 ### Master’s Thesis Project (Continuation of the summer project), August 2021 - current
 
-  #### Project title: *“Economic and Racial disparities in Air Pollution in Baltimore City and Other Major Metropolitan Cities in the United States”*
-  
+  #### Project title: *“Economic and Racial disparities in Air Pollution in Baltimore City and Other Major Metropolitan Cities in the United States”
   * Using spatial statics to view which neighborhoods are within a certian distance to a PA/EPA air quality monitor
   * A perspective on economic disparities in other major metropolitan cities across the United States
   * Establishing environmental justice tactics to help people in communities who are unheard or not represented equally, specifically BIPOC
@@ -51,29 +50,23 @@ redirect_from:
 ## Fellowships and Internships
 
   ### NOAA Experiential Research Training Opportunities, May 2022 - August 2022
-  
   * In association with CESSRST II working with NOAA Scientist Jared Rennie
   
-  ###  NOAA EPP/MSI CESSRST II Fellowship, August 2021 - current
-  
+  ### NOAA EPP/MSI CESSRST II Fellowship, August 2021 - current
   * Competitive, funded fellowship working with mentor Dr. Dillon Mahmoudi
   
   ### NOAA CESSRST II  Summer Bridge, June 2021 - Agust 2021
-  
   * Online summer internship in preparation for applying to NOAA CESSRST II
   
 ## Professional Presentations
  
  ### Tenth Biennual EPP/MSI NOAA Forum, Spring 2022
- 
   * Presented master’s thesis work
 
  ### Dr. Rick Spinrad Meeting (11th Administrator NOAA and Under Secretary of Commerce for Oceans and Atmosphere), Spring 2022
- 
   * Presented master’s thesis work
 
  ### EPA Wildfire Team, Fall 2022
- 
   * Presented master’s thesis work
 
 ## Volunteer and Outreach Work
