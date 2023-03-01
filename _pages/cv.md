@@ -39,8 +39,10 @@ redirect_from:
   * Extracted Data from US Census Bureau and PurpleAir.com
   * Viewed areas in Baltimore city that had higher or lower annual income based on their economic status (BIPOC/NHWhite)
   * Used GIS software to analyze the maps created from RStudio
+  
 ### Master’s Thesis Project (Continuation of the summer project), August 2021 - current
   #### Project title: *“Economic and Racial disparities in Air Pollution in Baltimore City and Other Major Metropolitan Cities in the United States”*
+  
   * Using spatial statics to view which neighborhoods are within a certian distance to a PA/EPA air quality monitor
   * A perspective on economic disparities in other major metropolitan cities across the United States
   * Establishing environmental justice tactics to help people in communities who are unheard or not represented equally, specifically BIPOC
@@ -49,8 +51,10 @@ redirect_from:
 
   ### NOAA Experiential Research Training Opportunities, May 2022 - August 2022
   * In association with CESSRST II working with NOAA Scientist Jared Rennie
+  
   ###  NOAA EPP/MSI CESSRST II Fellowship, August 2021 - current
   * Competitive, funded fellowship working with mentor Dr. Dillon Mahmoudi
+  
   ### NOAA CESSRST II  Summer Bridge, June 2021 - Agust 2021
   * Online summer internship in preparation for applying to NOAA CESSRST II
   
