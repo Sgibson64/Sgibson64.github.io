@@ -80,13 +80,13 @@ analytics:
 author:
   name             : "Selenea Gibson"
   avatar           : "profile.jpeg"
-  bio              : "Data science researcher, Geographer, and Social Scientist"
+  bio              : "Geographer and Social Scientist"
   location         : "UMBC"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Selenea_Gibson"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  stormap          : "https://www.arcgis.com/apps/MapJournal/index.html?appid=6660bf43dd17472ab884607c7c112e5f"
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
