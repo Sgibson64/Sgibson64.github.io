@@ -42,7 +42,7 @@ redirect_from:
   
 ### Master’s Thesis Project (Continuation of the summer project), August 2021 - current
 
-  * Project title: *“Economic and Racial disparities in Air Pollution in Baltimore City and Other Major Metropolitan Cities in the United States”
+   *Project title: “Economic and Racial disparities in Air Pollution in Baltimore City and Other Major Metropolitan Cities in the United States”*
    * Using spatial statics to view which neighborhoods are within a certian distance to a PA/EPA air quality monitor
    * A perspective on economic disparities in other major metropolitan cities across the United States
    * Establishing environmental justice tactics to help people in communities  who are unheard or not represented equally, specifically BIPOC
