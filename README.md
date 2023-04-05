@@ -3,7 +3,8 @@
 </p>
 
 # $\color{green}{Who\ am\ I?}$
-### Hey all! My name is Selenea Gibson and my pronouns are She/Her. I am a graduate student at UMBC in Maryland who studies Geography and Environmental Systems. Currently, I am under a NOAA fellowship which supports me throughout my journey as a student. If I had to give myself a title I would say *Geographer, Social Scientist, and Data Analyst*
+### Hey all! My name is Selenea Gibson and my pronouns are She/Her.
+I am a graduate student at UMBC in Maryland who studies Geography and Environmental Systems. Currently, I am under a NOAA fellowship which supports me throughout my journey as a student. If I had to give myself a title I would say *Geographer, Social Scientist, and Data Analyst*
 
 # $\color{green}{Project\ Interests}$
 ### My research interests focuses on multiple factors but are within the relm of Socio-economics and Racial diversity:
@@ -26,7 +27,7 @@
 - Paige Glotzer
 
 # $\color{green}{Career\ Goals}$
-### Working for NOAA or another federal agency to inform everyone as to why social science matters in the GIS and data world would be incredible. Helping people has always been a passion of mine and to do that in a professional setting could open many doors. 
+Working for NOAA or another federal agency to inform everyone as to why social science matters in the GIS and data world would be incredible. Helping people has always been a passion of mine and to do that in a professional setting could open many doors. 
 
 # $\color{green}{Fun\ Facts}$
 - I love to be outdoors and spend time with friends or family 
