@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Alaska Airports, Major Rivers, Lakes, and Trees"
+excerpt: "Map of different Alaskan features.  <br/><img src='/images/Map 3.jpeg'>"
 collection: portfolio
 ---
 
