@@ -6,7 +6,6 @@ collection: portfolio
 
 Following the same steps that Kyle Walker did in his book "Analyzing US Census Data: Methods, Maps, and Models in R", I completed the Alaska map. My personal changes are found below:
 
-<br></br>
 
 Map 1: 
 
@@ -22,7 +21,6 @@ Map 1:
   f. On page 89, I played with the resampling to do bilinear instead of Nearestneighbor. 
   <br>
   g. I lightened the color setting. 
-<br></br>
 
 Map 2:
 
