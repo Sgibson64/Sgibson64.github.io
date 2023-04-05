@@ -1,3 +1,14 @@
+---
+layout: archive
+permalink: /about.md/
+author_profile: true
+redirect_from:
+  - /about.md
+---
+
+{% include base_path %}
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!&fontcolor=#x1F34F&fontSize=90&animation=fadeIn)
 <p align='center'>
 </p>
