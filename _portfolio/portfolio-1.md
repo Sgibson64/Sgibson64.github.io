@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 Following the same steps that Kyle Walker did in his book "Analyzing US Census Data: Methods, Maps, and Models in R", I completed the Alaska map. My personal changes are found below:
+
 <br> </br>
 
 Map 1: 
@@ -22,6 +23,7 @@ Map 1:
   <br>
   g. I lightened the color setting. 
 <br> </br>
+
 Map 2:
 
   a. On page 98, I changed the color of the sr_50m_alaska_nad raster file to be white to black instead of black to white.
