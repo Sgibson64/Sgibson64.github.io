@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /README.md
+permalink: /README.md/
 author_profile: true
 redirect_from:
   - /README.md
