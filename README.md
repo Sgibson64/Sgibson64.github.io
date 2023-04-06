@@ -7,7 +7,7 @@
 I am a graduate student at UMBC in Maryland who studies Geography and Environmental Systems. Currently, I am under a NOAA fellowship which supports me throughout my journey as a student. If I had to give myself a title I would say *Geographer, Social Scientist, and Data Analyst*
 
 # $\color{green}{Project\ Interests}$
-### My research interests focuses on multiple factors but are within the relm of Socio-economics and Racial diversity:
+My research interests focuses on multiple factors but are within the relm of Socio-economics and Racial diversity:
 - Environmental Justice
 - BIPOC/NHWhite communities
 - Meteropolitan areas across the United States
@@ -15,7 +15,7 @@ I am a graduate student at UMBC in Maryland who studies Geography and Environmen
 - Black geographies
 
 # $\color{green}{Influence}$
-### I have included a list of authors who I have found to be very influential throughout my graduate career. Feel free to look them up and see what books or articles interest you! *A special shoutout to these authors who have shapped me into the researcher that I am today.* 
+I have included a list of authors who I have found to be very influential throughout my graduate career. Feel free to look them up and see what books or articles interest you! *A special shoutout to these authors who have shapped me into the researcher that I am today.* 
 
 - Katherine McKittrick
 - Tiffany Lethabo King
