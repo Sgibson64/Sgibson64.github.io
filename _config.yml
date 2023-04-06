@@ -110,6 +110,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - README
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -122,7 +123,6 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -243,7 +243,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # https://en.wikipedia.org/wiki/Time_in_New_York
 
 
 # Plugins
