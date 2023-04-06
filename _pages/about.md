@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /README.md/
+permalink: /README/
 author_profile: true
 redirect_from:
-  - /README.md
+  - /README
 ---
 
 {% include base_path %}
