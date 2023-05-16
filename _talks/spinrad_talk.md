@@ -12,4 +12,3 @@ I had the pleasure to speak to Dr. Rick Spinrad (Head of NOAA) and discuss my th
 
 <img src='/images/b4afc1e3-7794-4456-b798-f0762c336743 (1).JPG'>
 
-<img src='/images/b4afc1e3-7794-4456-b798-f0762c336743 (1).JPG'>
