@@ -1,8 +1,8 @@
 ---
-title: "Thesis talk with Dr. Rick Spinrad of NOAA"
+title: "NERTO Summer Internship"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+type: "Internship"
+permalink: /talks/Nerto
 venue: "NCEI"
 date: 2022-06-28
 location: "Asheville, North Carolina"
@@ -10,5 +10,5 @@ location: "Asheville, North Carolina"
 
 I had the pleasure to work with Jared Rennie (NCEI NOAA Scientist) for the NERTO fellowship. This was a 12-week internship and was funded through NOAA CESSRST 2. 
 
-<img src='/images/b4afc1e3-7794-4456-b798-f0762c336743 (1).JPG'>
+<img src='/images/jared and i.JPG'>
 
