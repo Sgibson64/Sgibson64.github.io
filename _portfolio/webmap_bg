@@ -1,11 +1,10 @@
 ---
 title: "Percent BIPOC in Baltimore City, MD"
-excerpt: "Map of April Precipitation.  <br/><img src='/images/April Precip.gif'>"
+excerpt: "Map of April Precipitation.  <br/><img src='/images/epa bgs percent BIPOC.png'>"
 ---
 
-I created a series of different precipitation patterns for the month of April. This was a mini project that I completed using NOAA data.
+I created a web map of an ongoing project that is apart of my Master's. The project looks at EPA/PurpleAir monitors in core MSA's across the United States.
 
-Check out this link to see how I created the maps using R!
+More information about how I created the webmap is provided in the link below.  
 
-
-<a href="https://Sgibson64.github.io/files//">Average Precip Tutorial</a>
+<a href="https://Sgibson64.github.io/files/epa bgs percent BIPOC.png">Percent BIPOC WebMap</a>
