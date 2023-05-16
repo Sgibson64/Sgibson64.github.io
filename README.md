@@ -22,16 +22,16 @@ I have included a list of authors who I have found to be very influential throug
 - Dillon Mahmoudi
 - Laura Pulido
 - Karoline Barkjohn
-- Andrea Clements
+- Chris Hawn
 - Cedric Robinson
-- Paige Glotzer
+- Dawn Biehler
 
 # $\color{green}{Career\ Goals}$
 Working for NOAA or another federal agency to inform everyone as to why social science matters in the GIS and data world would be incredible. Helping people has always been a passion of mine and to do that in a professional setting could open many doors. 
 
 # $\color{green}{Fun\ Facts}$
 - I love to be outdoors and spend time with friends or family 
-- I have a puppy named Remy who is the light of my life
+- I have a puppy named Remy who is my everything
 - Traveling around the world is on my bucket list 
 
 
