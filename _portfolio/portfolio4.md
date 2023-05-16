@@ -7,6 +7,6 @@ I created a web map of an ongoing project that is apart of my Master's. The proj
 
 More information about how I created the webmap is provided in the link below.  
 
-<a href="https://Sgibson64.github.io/files/New Microsoft Word Document.pdf">Percent BIPOC WebMap</a>
+<a href="https://Sgibson64.github.io/files/New Microsoft Word Document.pdf">Percent BIPOC Project</a>
 
 <a href="https://Sgibson64.github.io/_portfolio/webmap/index.html">Webmap</a>
