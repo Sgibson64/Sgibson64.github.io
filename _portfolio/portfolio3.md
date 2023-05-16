@@ -1,5 +1,5 @@
 ---
-title: "Percipitation"
+title: "Precipitation"
 excerpt: "Map of April Precipitation.  <br/><img src='/images/April Precip.gif'>"
 ---
 
