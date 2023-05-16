@@ -111,6 +111,7 @@ include:
   - _pages
   - files
   - README
+  - _projects
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
