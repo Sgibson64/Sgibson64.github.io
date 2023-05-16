@@ -1,7 +1,7 @@
 ---
 title: "Precipitation"
 permalink: /projects/
-excerpt: "Map of April Precipitation.  <br/><img src='images/April Precip.gif'>"
+excerpt: "Map of April Precipitation."
 redirect_from:
   - /projects
 ---
