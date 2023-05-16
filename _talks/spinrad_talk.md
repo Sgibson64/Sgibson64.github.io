@@ -2,7 +2,7 @@
 title: "Thesis talk with Dr. Rick Spinrad of NOAA"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/spinrad_talk
 venue: "CCNY"
 date: 2022-03-21
 location: "New York City, New York"
