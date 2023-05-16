@@ -7,4 +7,4 @@ I created a series of different precipitation patterns for the month of April. T
 
 Check out this link to see how I created the maps!
 
-[Average precip](https://walker-data.com/census-r/exploring-us-census-data-with-visualization.html)
+[Average precip](files/Average Tmin.pdf)
