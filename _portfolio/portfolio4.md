@@ -9,4 +9,4 @@ More information about how I created the webmap is provided in the link below.
 
 <a href="https://Sgibson64.github.io/files/New Microsoft Word Document.pdf">Percent BIPOC Project</a>
 
-<a href="https://Sgibson64.github.io/_portfolio/webmap/talkmap/map.html">Webmap</a>
+<a href="https://Sgibson64.github.io/_portfolio/webmap/index.html">Webmap</a>
