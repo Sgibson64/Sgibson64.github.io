@@ -1,5 +1,5 @@
 ---
-title: "Economic and Racial Disparities of PurpleAir Air Quality Monitors"
+title: "Economic and Racial Disparities of PurpleAir Air Quality Monitors in Baltimore City, Maryland"
 excerpt: "Map of PurpleAir Monitors and Core MSA's.  <br/><img src='/images/msa and pa.jpeg'>"
 collection: portfolio
 ---
