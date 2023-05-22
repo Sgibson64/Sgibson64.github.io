@@ -1,6 +1,6 @@
 ---
 title: "Economic and Racial Disparities of PurpleAir Air Quality Monitors"
-excerpt: "Map of different PurpleAir Monitors.  <br/><img src='/images/msa and pa.jpeg'>"
+excerpt: "Map of PurpleAir Monitors and Core MSA's.  <br/><img src='/images/msa and pa.jpeg'>"
 collection: portfolio
 ---
 
