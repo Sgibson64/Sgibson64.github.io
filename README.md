@@ -10,7 +10,7 @@ I am a graduate student at UMBC in Maryland who studies Geography and Environmen
 My research interests focuses on multiple factors but are within the relm of Socio-economics and Racial diversity:
 - Environmental Justice
 - BIPOC/White communities
-- Meteropolitan areas across the United States
+- Metropolitan areas across the United States
 - Capitalism (ew gross!!!)
 - Black geographies
 
