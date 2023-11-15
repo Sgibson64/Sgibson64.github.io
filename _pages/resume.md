@@ -18,17 +18,17 @@ redirect_from:
 
 ## Work experience
 
-### Spring 2018 - Winter 2021: Sales Associate
+### Sales Associate, March 2018 - January 2021
   * Home Depot
   * Duties included: Restocking, Labeling, and Customer service
   * Manager: Thomas Layden
 
-### Fall 2015: Manager of Guest Services
+### Manager of Guest Services, June 2015 - March 2018
   * Waverly Woods Golf Course 
   * Duties included: Customer service, Cleaning, and Training new employees
   * Manager: Jason Donatti
 
-### Fall 2012 - Spring 2013: Teacher Assistant
+### Teacher Assistant, August 2012 - May 2013
   * Peter Pan Learning Center
   * Duties included: Caring for children and Teaching
   * Manager: Sue Kruhm
