@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 
- *  M.S. in Geography and Environmental System, UMBC, Current
+ *  M.S. in Geography and Environmental System, UMBC, 2023
  *  B.S. in Geography and Environmental System, UMBC , 2021
  *  Minor in American Studies, UMBC, 2021
  *  A.A.S. in Computer Aided Drafting & Design, HCC, 2018
@@ -40,29 +40,32 @@ redirect_from:
   * Viewed areas in Baltimore city that had higher or lower annual income based on their economic status (BIPOC/NHWhite)
   * Used GIS software to analyze the maps created from RStudio
   
-### Master’s Thesis Project (Continuation of the summer project), August 2021 - current
+### Master’s Thesis Project (Continuation of the summer project), August 2021 - October 2023
 
    *Project title: “Economic and Racial disparities in Air Pollution in Baltimore City and Other Major Metropolitan Cities in the United States”*
-   * Using spatial statics to view which neighborhoods are within a certian distance to a PA/EPA air quality monitor
-   * A perspective on economic disparities in other major metropolitan cities across the United States
-   * Establishing environmental justice tactics to help people in communities  who are unheard or not represented equally, specifically BIPOC
+   * Determining if EPA/PurpleAir air quality monitors spatially represent all residents equally
+   * Understanding the geography/distribution of EPA/PurpleAir air quality monitors
+
 
 ## Fellowships and Internships
 
 ### NOAA Experiential Research Training Opportunities, May 2022 - August 2022
-   * In association with CESSRST II working with NOAA Scientist Jared Rennie
+   * In association with CESSRST working with Jared Rennie
   
-### NOAA EPP/MSI CESSRST II Fellowship, August 2021 - current
+### NOAA EPP/MSI CESSRST II Fellowship, August 2021 - July 2023
    * Competitive, funded fellowship working with mentor Dr. Dillon Mahmoudi
   
 ### NOAA CESSRST II  Summer Bridge, June 2021 - Agust 2021
-   * Online summer internship in preparation for applying to NOAA CESSRST II
+   * Extracted Data from US Census Bureau and PurpleAir.com
+   * Viewed areas in Baltimore city that had higher or lower annual income based on their economic status (BIPOC/NHWhite)
+   * Used GIS software to analyze the data created from RStudio
+
   
 ## Professional Presentations
  
-  * Tenth Biennual EPP/MSI NOAA Forum, Spring 2022
-  * Dr. Rick Spinrad Meeting (11th Administrator NOAA and Under Secretary of Commerce for Oceans and Atmosphere), Spring 2022
-  * EPA Wildfire Team, Fall 2022
+  * Tenth Biennual EPP/MSI NOAA Forum, April 2022
+  * Dr. Rick Spinrad Meeting (11th Administrator NOAA and Under Secretary of Commerce for Oceans and Atmosphere), March 2022
+  * EPA Wildfire Team, August 2022
 
 ## Volunteer and Outreach Work
  
@@ -73,14 +76,15 @@ redirect_from:
  
 ## Technical Skills
 
-* Python/Java
-* RStudio
-* QGIS/ArcMap
-* Remote Sensing
-* Google Earth Engine
+* Programming languages: Basic Python
+* Statistical languages/software: Intermediate R, RStudio, Markdown, Shiny
+* Intermediate GIS: mapping and spatial analysis in Esri ArcGIS Pro and ArcGIS Desktop (ArcMap), QGIS, GeoDa, Google Earth Engine
+* Intermediate Remote Sensing: ENVI and extraction data from satellites
+
 
 ## Additional Skills
 
 * Conversational in French and Spanish
-* Public Speaking
-* Team Building
+* Public Speaking: Experience with professional conference and informal seminar settings, professional development offerings, and public audiences ages 17 - 70
+* Team Building: Promote collaborative work environments and enjoy participating in team building activities
+
