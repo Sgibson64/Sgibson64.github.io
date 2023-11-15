@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Selenea Gibson Portfolio"
 title_separator          : "-"
 name                     : &name "Selenea Gibson"
-description              : &description "I am a current Master student at UMBC"
+description              : &description "Geographer and Social Scientist"
 url                      : https://Sgibson64.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sgibson64/Sgibson64.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Selenea Gibson"
   avatar           : "profile.jpeg"
-  bio              : "Current Masters student at UMBC in Maryland. Working towards a degree in Geography and Environmental Systems."
+  bio              : "Geographer and Social Scientist."
   location         : "UMBC"
   employer         :
   pubmed           : 
